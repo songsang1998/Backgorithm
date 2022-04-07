@@ -1,0 +1,4 @@
+﻿  1654.cpp
+D:\Backgorithm\1654.cpp\1654.cpp\1654.cpp(34,26): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Backgorithm\1654.cpp\1654.cpp\1654.cpp(40,13): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1654.cpp.vcxproj -> D:\Backgorithm\1654.cpp\Debug\1654.cpp.exe
