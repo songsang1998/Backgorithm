@@ -1,0 +1,4 @@
+﻿  9012.cpp
+D:\Backgorithm\9012.cpp\9012.cpp\9012.cpp(19,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backgorithm\9012.cpp\9012.cpp\9012.cpp(10,7): warning C4101: 'big' :참조되지 않은 지역 변수입니다.
+  9012.cpp.vcxproj -> D:\Backgorithm\9012.cpp\Debug\9012.cpp.exe
