@@ -1,0 +1,4 @@
+﻿  1260.cpp
+D:\Backgorithm\1260.cpp\1260.cpp\1260.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backgorithm\1260.cpp\1260.cpp\1260.cpp(38,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1260.cpp.vcxproj -> D:\Backgorithm\1260.cpp\Debug\1260.cpp.exe
