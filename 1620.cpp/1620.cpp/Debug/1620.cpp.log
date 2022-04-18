@@ -1,0 +1,4 @@
+﻿  1620.cpp
+D:\Backgorithm\1620.cpp\1620.cpp\1620.cpp(35,8): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+D:\Backgorithm\1620.cpp\1620.cpp\1620.cpp(34,8): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  1620.cpp.vcxproj -> D:\Backgorithm\1620.cpp\Debug\1620.cpp.exe
