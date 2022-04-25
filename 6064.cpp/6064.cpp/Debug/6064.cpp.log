@@ -1,0 +1,7 @@
+﻿  6064.cpp
+C:\Users\songp\source\repos\6064.cpp\6064.cpp\6064.cpp(10,17): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\songp\source\repos\6064.cpp\6064.cpp\6064.cpp(39,24): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\songp\source\repos\6064.cpp\6064.cpp\6064.cpp(39,21): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\songp\source\repos\6064.cpp\6064.cpp\6064.cpp(42,14): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\songp\source\repos\6064.cpp\6064.cpp\6064.cpp(48,10): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  6064.cpp.vcxproj -> C:\Users\songp\source\repos\6064.cpp\Debug\6064.cpp.exe
