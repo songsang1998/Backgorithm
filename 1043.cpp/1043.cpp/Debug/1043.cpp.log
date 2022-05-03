@@ -1,0 +1,4 @@
+﻿  1043.cpp
+D:\Backgorithm\1043.cpp\1043.cpp\1043.cpp(70,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backgorithm\1043.cpp\1043.cpp\1043.cpp(75,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1043.cpp.vcxproj -> D:\Backgorithm\1043.cpp\Debug\1043.cpp.exe
