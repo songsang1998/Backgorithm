@@ -1,0 +1,4 @@
+﻿  1865.cpp
+D:\Backgorithm\1865.cpp\1865.cpp\1865.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Backgorithm\1865.cpp\1865.cpp\1865.cpp(26,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1865.cpp.vcxproj -> D:\Backgorithm\1865.cpp\Debug\1865.cpp.exe
