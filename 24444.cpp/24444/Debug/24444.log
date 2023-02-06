@@ -1,0 +1,17 @@
+﻿  24446.cpp
+  24444.cpp
+  24447.cpp
+  코드를 생성하고 있습니다...
+24444.obj : error LNK2005: "void __cdecl BFS(int)" (?BFS@@YAXH@Z)이(가) 24446.obj에 이미 정의되어 있습니다.
+24444.obj : error LNK2005: _main이(가) 24446.obj에 이미 정의되어 있습니다.
+24444.obj : error LNK2005: "int * result" (?result@@3PAHA)이(가) 24446.obj에 이미 정의되어 있습니다.
+24444.obj : error LNK2005: "int * visited" (?visited@@3PAHA)이(가) 24446.obj에 이미 정의되어 있습니다.
+24444.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > * v" (?v@@3PAV?$vector@HV?$allocator@H@std@@@std@@A)이(가) 24446.obj에 이미 정의되어 있습니다.
+24444.obj : error LNK2005: "class std::queue<int,class std::deque<int,class std::allocator<int> > > q" (?q@@3V?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@A)이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: "void __cdecl BFS(int)" (?BFS@@YAXH@Z)이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: _main이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: "int * result" (?result@@3PAHA)이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: "int * visited" (?visited@@3PAHA)이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > * v" (?v@@3PAV?$vector@HV?$allocator@H@std@@@std@@A)이(가) 24446.obj에 이미 정의되어 있습니다.
+24447.obj : error LNK2005: "class std::queue<int,class std::deque<int,class std::allocator<int> > > q" (?q@@3V?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@A)이(가) 24446.obj에 이미 정의되어 있습니다.
+C:\Users\song\Desktop\Alogorithm\24444.cpp\Debug\24444.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
